@@ -1,0 +1,211 @@
+{
+  "hero": {
+    "title": "白い恋人",
+    "subtitle": "北海道を代表する洋菓子、上質なラングドシャとホワイトチョコレートの出会い",
+    "ctaText": "今すぐ購入する",
+    "ctaLink": "#purchase",
+    "backgroundImage": {
+      "src": "/images/hero-bg.jpg",
+      "alt": "白い恋人の商品画像",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "features": [
+    {
+      "id": "feature-1",
+      "title": "上質なラングドシャクッキー",
+      "description": "サクサクとした食感が特徴の、こだわりのラングドシャクッキーを使用しています。",
+      "icon": "cookie"
+    },
+    {
+      "id": "feature-2",
+      "title": "北海道産ホワイトチョコレート",
+      "description": "北海道の新鮮な牛乳から作られた、まろやかなホワイトチョコレートを挟んでいます。",
+      "icon": "chocolate"
+    },
+    {
+      "id": "feature-3",
+      "title": "厳選された素材",
+      "description": "北海道産の上質な素材を厳選して使用し、丁寧に作り上げています。",
+      "icon": "quality"
+    },
+    {
+      "id": "feature-4",
+      "title": "伝統の製法",
+      "description": "長年培われた伝統の製法で、変わらぬ美味しさをお届けします。",
+      "icon": "tradition"
+    }
+  ],
+  "variants": [
+    {
+      "id": "variant-white",
+      "name": "白い恋人 ホワイト",
+      "description": "定番のホワイトチョコレートを挟んだクラシックな味わい。北海道の雪のような白さが特徴です。",
+      "image": {
+        "src": "/images/white-variant.jpg",
+        "alt": "白い恋人 ホワイト",
+        "width": 800,
+        "height": 600
+      },
+      "features": [
+        "ホワイトチョコレート使用",
+        "サクサク食感のラングドシャ",
+        "まろやかな甘さ"
+      ]
+    },
+    {
+      "id": "variant-black",
+      "name": "白い恋人 ブラック",
+      "description": "ビターなブラックチョコレートを使用した、大人の味わい。ホワイトとは異なる深い味わいが楽しめます。",
+      "image": {
+        "src": "/images/black-variant.jpg",
+        "alt": "白い恋人 ブラック",
+        "width": 800,
+        "height": 600
+      },
+      "features": [
+        "ブラックチョコレート使用",
+        "ビターな味わい",
+        "大人向けの風味"
+      ]
+    }
+  ],
+  "story": {
+    "title": "白い恋人の物語",
+    "paragraphs": [
+      "1976年、北海道・札幌で誕生した「白い恋人」は、北海道を代表する洋菓子として多くの人々に愛され続けています。",
+      "「白い恋人」という名前は、創業者が雪の降る札幌の街を眺めながら、「白い恋人たちが降ってきた」とつぶやいたことから名付けられました。",
+      "上質なラングドシャクッキーと、北海道産の新鮮な牛乳から作られたホワイトチョコレートの絶妙な組み合わせは、多くの人々に感動を与えてきました。"
+    ],
+    "timeline": [
+      {
+        "year": "1976",
+        "event": "白い恋人 誕生"
+      },
+      {
+        "year": "1995",
+        "event": "白い恋人パーク オープン"
+      },
+      {
+        "year": "2002",
+        "event": "ブラックチョコレート版 発売"
+      },
+      {
+        "year": "2024",
+        "event": "累計販売数 20億枚突破"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/factory-1.jpg",
+        "alt": "白い恋人パーク 外観",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "src": "/images/factory-2.jpg",
+        "alt": "製造工程",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/images/gallery-1.jpg",
+      "alt": "白い恋人 商品写真 1",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "/images/gallery-2.jpg",
+      "alt": "白い恋人 商品写真 2",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "/images/gallery-3.jpg",
+      "alt": "白い恋人 商品写真 3",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "/images/gallery-4.jpg",
+      "alt": "白い恋人 パッケージ",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "/images/gallery-5.jpg",
+      "alt": "白い恋人パーク",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "/images/gallery-6.jpg",
+      "alt": "白い恋人 製造風景",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-1",
+      "author": "田中 花子",
+      "location": "東京都",
+      "rating": 5,
+      "comment": "北海道のお土産として定番ですが、何度食べても飽きない美味しさです。サクサクのクッキーとまろやかなチョコレートの組み合わせが最高です。",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "review-2",
+      "author": "佐藤 太郎",
+      "location": "大阪府",
+      "rating": 5,
+      "comment": "家族全員が大好きで、いつも購入しています。パッケージも上品で、贈り物にも最適です。",
+      "date": "2024-11-10"
+    },
+    {
+      "id": "review-3",
+      "author": "鈴木 美咲",
+      "location": "福岡県",
+      "rating": 4,
+      "comment": "ホワイトチョコレート版が特にお気に入りです。甘すぎず、上品な味わいが魅力的です。",
+      "date": "2024-11-05"
+    },
+    {
+      "id": "review-4",
+      "author": "高橋 健一",
+      "location": "北海道",
+      "rating": 5,
+      "comment": "地元の誇りです。観光客の方々にも自信を持っておすすめできる逸品です。",
+      "date": "2024-11-01"
+    }
+  ],
+  "purchase": {
+    "onlineStoreUrl": "https://www.shiroikoibito.ishiya.co.jp/",
+    "storeLocations": [
+      {
+        "name": "白い恋人パーク",
+        "address": "北海道札幌市西区宮の沢2条2丁目11-36",
+        "hours": "9:00〜18:00（年中無休）"
+      },
+      {
+        "name": "新千歳空港店",
+        "address": "北海道千歳市美々 新千歳空港ターミナルビル",
+        "hours": "8:00〜20:00"
+      }
+    ],
+    "priceInfo": {
+      "basePrice": 1296,
+      "currency": "JPY",
+      "shippingInfo": "全国一律送料無料（5,400円以上のご購入で）"
+    }
+  },
+  "contact": {
+    "email": "info@shiroikoibito.co.jp",
+    "phone": "011-666-1481",
+    "address": "北海道札幌市西区宮の沢2条2丁目11-36"
+  }
+}
