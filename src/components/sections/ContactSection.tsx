@@ -80,7 +80,6 @@ export const ContactSection: React.FC = () => {
                 <form onSubmit={handleSubmit(onSubmit)}>
                   <FormField
                     label="お名前"
-                    name="name"
                     type="text"
                     required
                     placeholder="山田 太郎"
@@ -90,7 +89,6 @@ export const ContactSection: React.FC = () => {
 
                   <FormField
                     label="メールアドレス"
-                    name="email"
                     type="email"
                     required
                     placeholder="example@email.com"
@@ -100,7 +98,6 @@ export const ContactSection: React.FC = () => {
 
                   <FormField
                     label="件名"
-                    name="subject"
                     type="text"
                     required
                     placeholder="お問い合わせの件名"
@@ -110,7 +107,6 @@ export const ContactSection: React.FC = () => {
 
                   <FormField
                     label="メッセージ"
-                    name="message"
                     type="textarea"
                     required
                     placeholder="お問い合わせ内容をご記入ください"
